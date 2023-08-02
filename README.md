@@ -1,5 +1,4 @@
 # It really is great to meet you again. 
-
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
@@ -14,16 +13,11 @@
 
 ### information and contact
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCGpQOi7yy0wEDxWOkKjLEjw"> 
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/a3e7b57a-f7d4-4581-832f-0fa4ddbc5c2e"/></a>
-  <a href="https://twitter.com/_Ding_Dang_">
-    <img alt="youtube views" title="YouTube views" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/de4d9635-1418-443a-bed8-db0bab3916f3"/></a> 
-  <a href="https://github.com/Ding-D-Z-S?tab=stars">
-    <img alt="total stars" title="Total stars on GitHub" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/2566847d-cdf7-4ee0-acf0-566445313c68"/></a>
-  <a href="！！">
-    <img alt="followers" title="Follow me on Github" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/add7b026-1737-4743-95ee-fd556e059a69"/></a>
-  <a href="https://space.bilibili.com/282967436?spm_id_from=333.1007.0.0">
-    <img alt="views" title="GitHub profile views" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/fdb1fdb4-8074-4f3d-bb0a-1462a6aad222"/></a>
+  <a href="https://www.youtube.com/channel/UCGpQOi7yy0wEDxWOkKjLEjw"> <img alt="Youtube" title="YouTube" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/a3e7b57a-f7d4-4581-832f-0fa4ddbc5c2e"/></a>
+  <a href="https://twitter.com/_Ding_Dang_"><img alt="twitter" title="twitter" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/de4d9635-1418-443a-bed8-db0bab3916f3"/></a> 
+  <a href="https://github.com/Ding-D-Z-S?tab=stars"><img alt="stars" title="stars" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/2566847d-cdf7-4ee0-acf0-566445313c68"/></a>
+  <a href="！！"><img alt="！！" title="！！" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/add7b026-1737-4743-95ee-fd556e059a69"/></a>
+  <a href="https://space.bilibili.com/282967436?spm_id_from=333.1007.0.0"><img alt="bilibili" title="bilibili" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/fdb1fdb4-8074-4f3d-bb0a-1462a6aad222"/></a
 </p>
 
 
