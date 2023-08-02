@@ -1,3 +1,5 @@
+
+
 # It really is great to meet you again. 
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
@@ -11,6 +13,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding-D-Z-S/Ding-D-Z-S/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ding-D-Z-S/Ding-D-Z-S/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCGpQOi7yy0wEDxWOkKjLEjw"> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/a3e7b57a-f7d4-4581-832f-0fa4ddbc5c2e"/></a>
+  <a href="https://twitter.com/_Ding_Dang_">
+    <img alt="youtube views" title="YouTube views" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/de4d9635-1418-443a-bed8-db0bab3916f3"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=Ding-D-Z-S&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/2566847d-cdf7-4ee0-acf0-566445313c68"/></a>
+  
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/add7b026-1737-4743-95ee-fd556e059a69"/></a>
+  
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/fdb1fdb4-8074-4f3d-bb0a-1462a6aad222"/></a>
+</p>
+
+
+
+
 
 
 ### Languages
