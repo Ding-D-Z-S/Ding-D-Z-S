@@ -1,4 +1,8 @@
-# It really is great to meet you again. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=00EEF7&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%E8%BF%99+%E9%87%8C+%E6%98%AF+++Ding-D-Z-S+%E3%80%82;%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0+%E8%BF%99+%E9%87%8C+%E5%95%8A+%EF%BC%81;It+really+is+great+to+meet+you+again%EF%BC%81">
+</p>
+
+
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
