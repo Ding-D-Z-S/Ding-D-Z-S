@@ -29,7 +29,7 @@
  -->
 
 <!-- 抄来的个人贡献面板 -->
-### Contributions and programming languages
+### Contributions
 <p align="center" >
  <a>
   <img height="138px" src="https://github-readme-stats.vercel.app/api?username=Ding-D-Z-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -37,31 +37,14 @@
  </a>
 </p>
 
-<p align="center" >
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+<!-- 抄来的可爱小折线：https://github.com/ashutosh00710/github-readme-activity-graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ding-D-Z-S&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- ************************************************************************************************************************************************************************* -->
 <!-- 6666！ -->
 <h3>🛠️Tools</h3>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <!-- 抄来的一堆标： https://github.com/Ileriayo/markdown-badges -->
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -156,3 +139,23 @@
 </p>
 
 <!-- ************************************************************************************************************************************************************************* -->
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
