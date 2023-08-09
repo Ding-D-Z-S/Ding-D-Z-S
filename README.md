@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=00EEF7&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%E8%BF%99+%E9%87%8C+%E6%98%AF+++Ding-D-Z-S+%E3%80%82;%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0+%E8%BF%99+%E9%87%8C+%E5%95%8A+%EF%BC%81;It+really+is+great+to+meet+you+again%EF%BC%81">
 </p>
 
+
 <!-- 标签 -->
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -10,12 +11,14 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
+
 <!-- 贪吃蛇服务插件 https://github.com/Platane-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ding-D-Z-S/Ding-D-Z-S/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ding-D-Z-S/Ding-D-Z-S/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ding-D-Z-S/Ding-D-Z-S/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <!-- 按钮 -->
 ### information and contact
@@ -26,6 +29,7 @@
   <a href="！！"><img alt="！！" title="！！" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/add7b026-1737-4743-95ee-fd556e059a69"/></a>
   <a href="https://space.bilibili.com/282967436?spm_id_from=333.1007.0.0"><img alt="bilibili" title="bilibili" src="https://github.com/Ding-D-Z-S/Ding-D-Z-S/assets/109493302/fdb1fdb4-8074-4f3d-bb0a-1462a6aad222"/></a
 </p>
+
 
 <!-- 6666！ -->
 ### Languages
