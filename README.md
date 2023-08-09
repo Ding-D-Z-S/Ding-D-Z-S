@@ -36,7 +36,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 <p align="center" >
-<p>  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
